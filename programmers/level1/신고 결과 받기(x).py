@@ -1,3 +1,5 @@
+# 다시풀기
+
 def solution(id_list, report, k):
   size = len(id_list)
   
